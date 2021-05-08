@@ -57,9 +57,6 @@ decrypt_button = Button(root, text="Decrypt Message", command=decode)
 encrypt_button.grid(row=3, column=0)
 decrypt_button.grid(row=3, column=1, sticky=W)
 
-#message_text = message_entry.get("1.0", "end-1c")
-
-
 root.mainloop()
 
 
