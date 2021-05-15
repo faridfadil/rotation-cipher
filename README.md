@@ -25,6 +25,7 @@ This method of encryption is susceptible to a brute force decryption method wher
 ![image](https://user-images.githubusercontent.com/33313844/117907099-89a86180-b319-11eb-9134-be9aca8901f1.png)
 
 The message "cats are awesome" is encrypted with a shift key of 1105 to yield a coded message "ҴҲӅӄѱҲӃҶѱҲӈҶӄӀҾҶ". 
+
 ![image](https://user-images.githubusercontent.com/33313844/117907162-a2b11280-b319-11eb-97ce-572741ddd67c.png)
 
 The coded message "ҴҲӅӄѱҲӃҶѱҲӈҶӄӀҾҶ" is decrypted with the shift key of 1105 to yield the decoded message "cats are awesome"
